@@ -1,0 +1,31 @@
+{
+  "name": "root-of-unity",
+  "version": "1.0.0",
+  "description": "Root of unity calculation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbakondy/root-of-unity.git"
+  },
+  "keywords": [
+    "root",
+    "root-of-unity",
+    "de-moivre",
+    "complex"
+  ],
+  "author": "Peter Bakondy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pbakondy/root-of-unity/issues"
+  },
+  "homepage": "https://github.com/pbakondy/root-of-unity#readme",
+  "dependencies": {
+    "Complex": "^3.0.0"
+  },
+  "devDependencies": {
+    "tape": "^4.2.2"
+  }
+}
