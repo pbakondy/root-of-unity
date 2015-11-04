@@ -1,4 +1,4 @@
-# Root of unity
+# Root of unity [![Build Status](https://travis-ci.org/pbakondy/root-of-unity.svg?branch=master)](https://travis-ci.org/pbakondy/root-of-unity)
 
 **nth root of unity** calculation using De Moivre's formula.
 
